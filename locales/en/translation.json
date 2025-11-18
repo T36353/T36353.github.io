@@ -1,0 +1,25 @@
+{
+  "common": {
+    "language": "Language"
+  },
+  "instruction": {
+    "title": "Instruction",
+    "subscription": {
+      "title": "Subscription",
+      "description": "Buy subscription in Telegram bot @Petr_Piglet_VPN_bot. You get 3 QR-codes for connection. Save them."
+    },
+    "happ": {
+      "title": "Apps for connection",
+      "description": "Install Happ Proxy Utility which is available on Google Play and AppStore"
+    },
+    "connectionSteps": {
+      "title": "Connection",
+      "cards": [
+        "Open Happ Proxy Utility and press \"QR-code\" button",
+        "Press \"Gallery\" and select QR-code for connection or point camera on it",
+        "Press \"turn on/off\" button and provide permission for adding VPN configuration",
+        "For turning off press \"turn on/off\" button once again"
+      ]
+    }
+  }
+}
